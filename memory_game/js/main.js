@@ -56,3 +56,22 @@ console.log(suit)
 
 flipCard(0);
 flipCard(2);
+
+
+var createBoard = function {
+for (var i = 0; i < cards.length; i++) {
+    
+}
+}
+var createElement = img.cardElement
+
+
+
+
+
+
+
+
+
+
+}
